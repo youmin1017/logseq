@@ -1,0 +1,12 @@
+- ## Packages
+	- [[homebrew]]
+	- [[fig]]
+	- [[karabiner]]
+	- [[popclip]]
+	- [[raycast]]
+	- [[iTerm]]
+	- [[neovim]]
+	- [[docker]]
+- ## Configs
+	- [[ssh]]
+-
