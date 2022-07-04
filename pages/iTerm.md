@@ -1,2 +1,2 @@
 tags:: #macOS
-label:: package
+type:: package

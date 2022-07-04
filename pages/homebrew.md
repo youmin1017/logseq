@@ -1,5 +1,5 @@
 tags:: [[macOS]]
-label:: package manager
+type:: package manager
 
 - #+BEGIN_PINNED
   [Homebrew](https://brew.sh/index_zh-tw)
