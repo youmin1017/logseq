@@ -1,3 +1,6 @@
+tags:: #macOS #linux
+label:: package
+
 - ## Installation
 	- `brew install --cask docker` #macOS
 - ## Change [[macOS]] Docker Default [[cgroup]] version
