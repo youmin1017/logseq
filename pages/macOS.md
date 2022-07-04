@@ -1,12 +1,5 @@
-- ## Packages
+- ## macOS Package Manager
 	- [[Homebrew]]
-	- [[fig]]
-	- [[karabiner]]
-	- [[popclip]]
-	- [[raycast]]
-	- [[iTerm]]
-	- [[neovim]]
-	- [[Docker]]
 - ## Configs
 	- [[ssh]]
 -
