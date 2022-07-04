@@ -1,5 +1,5 @@
 tags:: #macOS #manjaro 
-label:: package
+type:: package
 
 - ## Installation
 	- `sudo brew install neovim` #macOS

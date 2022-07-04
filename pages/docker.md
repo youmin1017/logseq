@@ -1,5 +1,5 @@
 tags::  #linux #macOS
-label:: package
+type:: package
 
 - ## Installation
 	- `brew install --cask docker` #macOS

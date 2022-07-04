@@ -1,5 +1,5 @@
 tags:: #macOS
-label:: package
+type:: package
 
 - ## Simple
 	- fn -> caps lock
