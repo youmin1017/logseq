@@ -1,5 +1,5 @@
 tags:: [[macOS]]
-type
+label:: plugin manager
 
 - #+BEGIN_PINNED
   [Homebrew](https://brew.sh/index_zh-tw)
