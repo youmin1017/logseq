@@ -1,4 +1,4 @@
--
+- tags: macOS
 - #+BEGIN_PINNED
   [Homebrew](https://brew.sh/index_zh-tw)
   #+END_PINNED
