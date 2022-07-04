@@ -1,5 +1,6 @@
-- ## macOS Package Manager
-	- [[Homebrew]]
+- ## macOS Package Manager [[Homebrew]]
+- ## Packages
+	-
 - ## Configs
 	- [[ssh]]
 -
