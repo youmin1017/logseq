@@ -2,7 +2,7 @@
 - ## Packages
 	- #+BEGIN_QUERY
 	  {:title "All blocks with tag project"
-	   :query [:find (pull ?b [*])
+	   :query [:find (pull ?p [*])
 	           :where
 	           [?p :block/name "project"]
 	           [?b :block/refs ?p]]}
