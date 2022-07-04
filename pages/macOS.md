@@ -1,18 +1,16 @@
 - ## macOS Package Manager [[Homebrew]]
 - ## Packages
-	- #+BEGIN_QUERY
-	  {:title "All pages have a *macOS* tag"
-	   :query [:find ?name
-	         :in $ ?tag
-	         :where
-	         [?t :block/name ?tag]
-	         [?p :block/tags ?t]
-	         [?p :block/name ?name]]
-	   :inputs ["macOS"]
-	   :view (fn [result]
-	         [:div.flex.flex-col
-	          (for [page result]
-	            [:a {:href (str "#/page/" page)} (clojure.string/capitalize page)])])}
+	- query-table:: true
+	  #+BEGIN_QUERY
+	  {:title "All page tags"
+	  :query [:find ?tag-name
+	          :where
+	          [?tag :block/name ?tag-name]]
+	  :view (fn [tags]
+	        [:div
+	         (for [tag (flatten tags)]
+	           [:a.tag.mr-1 {:href (str "#/page/" macOS)}
+	            (str "#" tag)])])}
 	  #+END_QUERY
 - ## Configs
 	- [[ssh]]
