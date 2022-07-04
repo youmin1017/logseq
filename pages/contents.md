@@ -2,8 +2,7 @@
 	- #ziling
 	- #target
 	- #wish
-	- #CANCELED
-	- #TODO
+	- #CANCELED | #TODO
 	-
 - ### Work
 	- #WKE
