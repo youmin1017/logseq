@@ -1,1 +1,1 @@
-- [](https://course.rs/async-rust/async/getting-started.html)
+- []()https://course.rs/async-rust/async/getting-started.html)
