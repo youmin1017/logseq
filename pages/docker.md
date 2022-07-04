@@ -1,4 +1,4 @@
-tags:: #macOS #linux
+tags::  #linux #macOS
 label:: package
 
 - ## Installation
