@@ -1,4 +1,5 @@
-- #sandbox #cgroup
+tags:: #sandbox #cgroup
+
 - [Manual](http://www.ucw.cz/moe/isolate.1.html#_name)
 - ## Environment
 	- #+BEGIN_CAUTION
