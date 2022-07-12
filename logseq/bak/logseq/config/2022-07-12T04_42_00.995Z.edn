@@ -109,7 +109,8 @@
  ;;  :editor/down            ["ctrl+j" "down"]
  ;;  :editor/left            ["ctrl+h" "left"]
  ;;  :editor/right           ["ctrl+l" "right"]}
- :shortcuts {}
+ :shortcuts
+ {:editor/right "ctrl+l", :go/search-in-page "shift+ctrl+f", :go/search "ctrl+f", :editor/left "ctrl+h", :editor/italics "shift+ctrl+i", :editor/insert-link "shift+ctrl+l", :editor/down "j", :editor/up "k"}
 
  ;; By default, pressing `Enter` in the document mode will create a new line.
  ;; Set this to `true` so that it's the same behaviour as the usual outliner mode.
@@ -200,7 +201,7 @@
 
  :ref/linked-references-collapsed-threshold 50
 
- :favorites ["Environment Setup" "How to take dummy notes?"]
+ :favorites ["How to take dummy notes?"]
  :graph/settings {:journal? false, :builtin-pages? false, :orphan-pages? true}
 
  ;; any number between 0 and 1 (the greater it is the faster the changes of the next-interval of card reviews) (default 0.5)
