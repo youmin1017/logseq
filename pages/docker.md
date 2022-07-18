@@ -1,6 +1,3 @@
-tags::  #linux #macOS
-type:: package
-
 - ## Installation
 	- `brew install --cask docker` #macOS
 - ##

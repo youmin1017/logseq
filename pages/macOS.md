@@ -2,10 +2,10 @@
 - ## Configs
 	- [[ssh]]
 - ## Packages
+	- [[iTerm]]
 	- [[docker]]
 	- [[fig]]
 	- [[homebrew]]
-	- [[iTerm]]
 	- [[karabiner]]
 	- [[neovim]]
 	- [[popclip]]
