@@ -1,6 +1,3 @@
-tags:: #macOS #manjaro 
-type:: package
-
 - ## Installation
 	- `sudo brew install neovim` #macOS
 	- `sudo pacman -S neovim` #manjaro

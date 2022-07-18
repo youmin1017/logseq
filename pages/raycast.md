@@ -1,2 +1,4 @@
-tags:: #macOS
-type:: package
+- ## Installation
+	- ```bash
+	  brew install --cask raycast
+	  ```
