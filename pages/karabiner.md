@@ -1,4 +1,2 @@
-tags:: #macOS
-type:: package
-
--
+- ## Installation
+	-
