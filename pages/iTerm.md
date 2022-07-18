@@ -1,2 +1,3 @@
-tags:: #macOS
-type:: package
+- ## Installation
+	- ```bash
+	  ```
