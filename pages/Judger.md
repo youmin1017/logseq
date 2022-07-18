@@ -1,7 +1,9 @@
 - ## Sandbox
 	- [[ioi-isolate]]
 - ## Run [[docker]] Container
-	- `docker run -itd --privileged -p 8000:8000 -v ~/Desktop/dev/judger:/app  --name compiler judge0/compilers`
+	- ```bash
+	  docker run -itd --privileged -p 8000:8000 -v ~/Desktop/dev/judger:/app  --name compiler judge0/compilers
+	  ```
 - ## FastAPI
 	- ### 功能
 		- Submit Code
