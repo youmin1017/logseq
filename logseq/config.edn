@@ -110,7 +110,7 @@
  ;;  :editor/left            ["ctrl+h" "left"]
  ;;  :editor/right           ["ctrl+l" "right"]}
  :shortcuts
- {:editor/right "l", :go/backward "meta+open-square-bracket", :go/search-in-page "shift+ctrl+f", :go/search "ctrl+f", :editor/left "h", :editor/italics "shift+ctrl+i", :go/forward "meta+right", :editor/insert-link "shift+ctrl+l", :editor/up "k", :editor/down "j"}
+ {:editor/right "l", :go/backward "meta+open-square-bracket", :go/search-in-page "shift+ctrl+f", :go/search "ctrl+f", :editor/left "h", :editor/italics "shift+ctrl+i", :go/forward "meta+close-square-bracket", :editor/insert-link "shift+ctrl+l", :editor/up "k", :editor/down "j"}
 
  ;; By default, pressing `Enter` in the document mode will create a new line.
  ;; Set this to `true` so that it's the same behaviour as the usual outliner mode.
