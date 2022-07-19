@@ -13,7 +13,12 @@
 	- [[raycast]]
 	- [[coreutils]]  For using `realpath`
 	- ### VM macOS
-		- [[multipass]]
+		- #+BEGIN_TIP
+		  [[multipass]]
+		  #+END_TIP
+		- #+BEGIN_VERSE
+		  
+		  #+END_VERSE
 		- [[UTM]]
 -
 -
