@@ -2,10 +2,14 @@ tags:: #sandbox #cgroup
 
 - [Manual](http://www.ucw.cz/moe/isolate.1.html#_name)
 - ## Installaion
-	- ```bash
+	- #ubuntu
+	  ```bash
 	  sudo apt update
 	  sudo apt-get install -y --no-install-recommends git libcap-de make
-	  git clone https://github.com/ioi/isolate.gi
+	  git clone https://github.com/judge0/isolate.git /tmp/isolate
+	  cd /tmp/isolate
+	  make -j$(nproc) install
+	  rm -rf /tmp
 	  ```
 - ## Environment
 	- #+BEGIN_CAUTION
