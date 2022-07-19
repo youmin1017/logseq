@@ -13,8 +13,7 @@
 	- [[raycast]]
 	- [[coreutils]]  For using `realpath`
 	- ### VM macOS
-		- ****[[multipass]]
-		  background-color:: #533e7d
+		- [[multipass]]
 		- [[UTM]]
 -
 -
