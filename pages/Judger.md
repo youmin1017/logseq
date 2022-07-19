@@ -7,8 +7,9 @@
 	  ```
 	- Building Judger
 	- ```bash
+	  docker build -t youmin1017/judger .
 	  ```
 - ## FastAPI
-	- ### 功能
-		- Submit Code
+	- ### Submit Code
+	-
 -
