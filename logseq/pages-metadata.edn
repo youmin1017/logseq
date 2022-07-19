@@ -37,9 +37,15 @@
  {:block/name "fig",
   :block/created-at 1656574067451,
   :block/updated-at 1656768874998}
+ {:block/name "git",
+  :block/created-at 1657982929581,
+  :block/updated-at 1657982929581}
  {:block/name "homebrew",
   :block/created-at 1656768895515,
   :block/updated-at 1656782906788}
+ {:block/name "how to change git remote origin",
+  :block/created-at 1657982929162,
+  :block/updated-at 1657982929162}
  {:block/name "in-progress",
   :block/created-at 1655818480671,
   :block/updated-at 1655818480671}
@@ -51,13 +57,22 @@
   :block/updated-at 1656574136305}
  {:block/name "judger",
   :block/created-at 1657511480023,
-  :block/updated-at 1657549003843}
- {:block/name "jul 10th, 2022",
-  :block/created-at 1657468853993,
-  :block/updated-at 1657468853993}
+  :block/updated-at 1658135781310}
  {:block/name "jul 11th, 2022",
   :block/created-at 1657511480026,
   :block/updated-at 1657541563995}
+ {:block/name "jul 12th, 2022",
+  :block/created-at 1657982929199,
+  :block/updated-at 1657982929199}
+ {:block/name "jul 16th, 2022",
+  :block/created-at 1657982929167,
+  :block/updated-at 1657982929167}
+ {:block/name "jul 18th, 2022",
+  :block/created-at 1658132351242,
+  :block/updated-at 1658213343894}
+ {:block/name "jul 19th, 2022",
+  :block/created-at 1658160007843,
+  :block/updated-at 1658214141451}
  {:block/name "jul 2nd, 2022",
   :block/created-at 1656762225589,
   :block/updated-at 1656773651891}
@@ -70,9 +85,6 @@
  {:block/name "jul 6th, 2022",
   :block/created-at 1657468854043,
   :block/updated-at 1657468854043}
- {:block/name "jul 9th, 2022",
-  :block/created-at 1657468854017,
-  :block/updated-at 1657468854017}
  {:block/name "jun 21st, 2022",
   :block/created-at 1655818456232,
   :block/updated-at 1655979880269}
@@ -106,9 +118,6 @@
  {:block/name "manjaro downgrade package",
   :block/created-at 1657513969360,
   :block/updated-at 1657514238368}
- {:block/name "mom",
-  :block/created-at 1657468854959,
-  :block/updated-at 1657468854959}
  {:block/name "neovim",
   :block/created-at 1656766581751,
   :block/updated-at 1656844057139}
@@ -118,6 +127,15 @@
  {:block/name "popclip",
   :block/created-at 1656574089785,
   :block/updated-at 1656574089785}
+ {:block/name "python",
+  :block/created-at 1657982929649,
+  :block/updated-at 1657982929649}
+ {:block/name "python async io",
+  :block/created-at 1657982929198,
+  :block/updated-at 1657982929198}
+ {:block/name "python difflib",
+  :block/created-at 1658214141451,
+  :block/updated-at 1658214170626}
  {:block/name "raycast",
   :block/created-at 1656780500889,
   :block/updated-at 1656780709807}
@@ -130,6 +148,9 @@
  {:block/name "sandbox",
   :block/created-at 1656773083401,
   :block/updated-at 1656773083401}
+ {:block/name "shop",
+  :block/created-at 1657982929164,
+  :block/updated-at 1657982929164}
  {:block/name "ssh",
   :block/created-at 1656766659631,
   :block/updated-at 1656766693538}
@@ -142,6 +163,15 @@
  {:block/name "todo",
   :block/created-at 1655818480671,
   :block/updated-at 1656762233816}
+ {:block/name "vscode",
+  :block/created-at 1658132351206,
+  :block/updated-at 1658132351206}
+ {:block/name "vscode keybindings",
+  :block/created-at 1658132351204,
+  :block/updated-at 1658132351204}
+ {:block/name "vscode python linter",
+  :block/created-at 1658213362610,
+  :block/updated-at 1658213387151}
  {:block/name "wait",
   :block/created-at 1655818480671,
   :block/updated-at 1655818480671}
