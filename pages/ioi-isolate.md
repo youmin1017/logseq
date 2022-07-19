@@ -30,7 +30,7 @@ tags:: #sandbox #cgroup
 	  isolate --cg --silent --meta meta.txt --box-id 0 \
 	          --time 2.0 --extra-time 0.5 --wall-time 5.0 \
 	          --stack 64000 --processes=30 --cg-mem 128000 \
-	          --no-cg-timing --fsize 1024 --stdin input --stdout output \
+	          --no-cg-timing --fsize 1024 --stdin stdin.txt --stdout output \
 	          -E LANG -E LANGUAGE -E LC_ALL \
 	          --dir '/etc':'noexec' \
 	          --run -- a.out
