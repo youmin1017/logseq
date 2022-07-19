@@ -3,6 +3,7 @@
 	- [[ssh]]
 - ## Packages
 	- [[homebrew]]
+	- [[zsh]]
 	- [[iTerm]]
 	- [[docker]]
 	- [[fig]]
