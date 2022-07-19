@@ -3,7 +3,7 @@
 	- [[ssh]]
 - ## Packages
 	- [[homebrew]]
-	- [[zsh]]
+	- TODO [[zsh]]
 	- [[iTerm]]
 	- [[docker]]
 	- [[fig]]
@@ -13,6 +13,7 @@
 	- [[raycast]]
 	- [[coreutils]]  For using `realpath`
 	- ### VM macOS
+	  collapsed:: true
 		- [[UTM]]
 		- [[multipass]]
 -
