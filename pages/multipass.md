@@ -1,3 +1,4 @@
-tags:: ubuntu vm
+tags:: [[ubuntu]] [[vm]]
 
--
+- ## Installation
+	- `brew install --cask multipass` #macOS
