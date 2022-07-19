@@ -13,14 +13,8 @@
 	- [[raycast]]
 	- [[coreutils]]  For using `realpath`
 	- ### VM macOS
-		- #+BEGIN_TIP
-		  
-		  #+END_TIP
-		- #+BEGIN_IMPORTANT
-		  
-		  #+END_IMPORTANT
 		- #+BEGIN_PINNED
-		  
+		    好用
 		  #+END_PINNED
 		- [[UTM]]
 -
