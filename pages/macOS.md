@@ -13,7 +13,6 @@
 	- [[raycast]]
 	- [[coreutils]]  For using `realpath`
 	- ### VM macOS
-	  collapsed:: true
 		- [[UTM]]
 		- [[multipass]]
 -
