@@ -1,4 +1,5 @@
 - ## Installation
-	- ```bash
-	  brew install --cask raycast
-	  ```
+- ```bash
+  brew install --cask raycast
+  ```
+-
