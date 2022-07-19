@@ -13,9 +13,8 @@
 	- [[raycast]]
 	- [[coreutils]]  For using `realpath`
 	- ### VM macOS
-		- #+BEGIN_PINNED
-		    好用
-		  #+END_PINNED
+		- ****[[multipass]]
+		  background-color:: #533e7d
 		- [[UTM]]
 -
 -
