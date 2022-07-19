@@ -1,6 +1,9 @@
 tags:: #sandbox #cgroup
 
 - [Manual](http://www.ucw.cz/moe/isolate.1.html#_name)
+- ## Installaion
+	- ```bash
+	  ```
 - ## Environment
 	- #+BEGIN_CAUTION
 	  `ioi/isolate` using [[cgroup]] ^^v1^^, if your system using `cgroupv2` you should switch it to ^^v1^^
