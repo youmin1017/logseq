@@ -10,4 +10,5 @@
 	- [[neovim]]
 	- [[popclip]]
 	- [[raycast]]
+	- [[coreutils]]  For using ``
 -
