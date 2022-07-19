@@ -6,3 +6,5 @@
 	- With the deadsnakes repository added to your Ubuntu 20.04|18.04 system, now download Python 3.10 with the single command below.
 	- `sudo apt install python3.10 -y`
 - ## [[Python]] Development Lib
+	- `sudo apt install python3.10-dev python3.10-ven`
+-
