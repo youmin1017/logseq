@@ -10,5 +10,5 @@
 	- [[neovim]]
 	- [[popclip]]
 	- [[raycast]]
-	- [[coreutils]]  For using ``
+	- [[coreutils]]  For using `realpath`
 -
