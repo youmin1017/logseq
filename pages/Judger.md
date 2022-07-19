@@ -1,5 +1,4 @@
-- ## Sandbox
-	- [[ioi-isolate]]
+- ## [[ioi-isolate]] Sandbox
 - ## [[Docker]]
 	- ### Development
 	- ```bash
