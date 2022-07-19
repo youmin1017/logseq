@@ -1,5 +1,6 @@
 - ## Install Python 3.10
 	- Install the required dependency for adding custom PPAs.
-	- ```bash
-	  ```
+	- `sudo apt install software-properties-common -y`
+	- Then proceed and add the deadsnakes PPA to the APT package manager sources list as below.
+	- `sudo add-apt-repository ppa:deadsnakes/ppa`
 -
