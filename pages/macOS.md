@@ -12,6 +12,6 @@
 	- [[raycast]]
 	- [[coreutils]]  For using `realpath`
 	- ### macOS虛擬機
-	- [[UTM]]
+		- [[UTM]]
 -
 -
