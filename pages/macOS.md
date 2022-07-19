@@ -11,7 +11,7 @@
 	- [[popclip]]
 	- [[raycast]]
 	- [[coreutils]]  For using `realpath`
-	- ### VM
+	- ### VM macOS
 		- [[UTM]]
 		- [[multipass]]
 -
