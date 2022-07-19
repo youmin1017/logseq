@@ -1,4 +1,4 @@
 - ## Installation
-	- ```bash
-	  brew install --cask iterm2
-	  ```
+- ```bash
+  brew install --cask iterm2
+  ```
