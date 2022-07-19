@@ -14,11 +14,14 @@
 	- [[coreutils]]  For using `realpath`
 	- ### VM macOS
 		- #+BEGIN_TIP
-		  [[multipass]]
-		  #+END_TIP
-		- #+BEGIN_VERSE
 		  
-		  #+END_VERSE
+		  #+END_TIP
+		- #+BEGIN_IMPORTANT
+		  
+		  #+END_IMPORTANT
+		- #+BEGIN_PINNED
+		  
+		  #+END_PINNED
 		- [[UTM]]
 -
 -
