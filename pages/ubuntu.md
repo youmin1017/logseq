@@ -7,4 +7,6 @@
 	- `sudo apt install python3.10 -y`
 - ## [[Python]] Development Lib
 	- `sudo apt install python3.10-dev python3.10-ven`
+- ## Packages
+	- [[ioi-isolate]]
 -
