@@ -3,7 +3,7 @@
 	- [[ssh]]
 - ## Packages
 	- [[homebrew]]
-	- TODO [[zsh]]
+	- [[zsh]]
 	- [[iTerm]]
 	- [[docker]]
 	- [[fig]]
