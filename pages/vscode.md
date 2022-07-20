@@ -1,0 +1,4 @@
+- ## Bracket Guide
+	- ```
+	- "editor.guides.bracketPairs": "active",`
+-
