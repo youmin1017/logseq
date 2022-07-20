@@ -1,2 +1,3 @@
 - ## Installation
-	-
+	- `brew install zsh` #macOS
+-
