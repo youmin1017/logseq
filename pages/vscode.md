@@ -3,7 +3,7 @@
 	  // setting.json
 	  {
 	    "editor.guides.bracketPairs": "active",  
-	  }
+	  }  fff
 	  ```
 - ## [[macOS]] Keyboard Binding
   collapsed:: true
