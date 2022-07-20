@@ -8,9 +8,10 @@
 - ### Work
 	- #WKE
 	- #解題平台
-	-
+	- #Judger
 - ### Note
 	- #[[template]]
 	- #docker
 	- #macOS
+	- #ubuntu
 	- #rust
