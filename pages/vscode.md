@@ -5,7 +5,10 @@
 	    "editor.guides.bracketPairs": "active",  
 	  }
 	  ```
-- ## [[macOS]] Binding
+- ## [[macOS]] Keyboard Binding
+  collapsed:: true
 	- ```json
 	  ```
+- ## Linter
+	- [[VSCode Python Linter]]
 -
