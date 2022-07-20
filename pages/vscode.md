@@ -1,7 +1,8 @@
 - ## Bracket Guide
 	- ```json
+	  // setting.json
 	  {
-	      "editor.guides.bracketPairs": "active",  
+	    "editor.guides.bracketPairs": "active",  
 	  }
 	  ```
 -
