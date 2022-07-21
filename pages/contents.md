@@ -8,7 +8,7 @@
 - ### Work
 	- #WKE
 	- #解題平台
-	- #Judger
+	- #Judge
 - ### Note
 	- #[[template]]
 	- #docker
