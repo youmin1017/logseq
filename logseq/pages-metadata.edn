@@ -94,6 +94,9 @@
  {:block/name "jul 25th, 2022",
   :block/created-at 1658684090894,
   :block/updated-at 1658684090894}
+ {:block/name "jul 26th, 2022",
+  :block/created-at 1658812201667,
+  :block/updated-at 1658812201667}
  {:block/name "jul 2nd, 2022",
   :block/created-at 1656762225589,
   :block/updated-at 1656773651891}
@@ -184,6 +187,9 @@
  {:block/name "template",
   :block/created-at 1656169698219,
   :block/updated-at 1656169698219}
+ {:block/name "tmux",
+  :block/created-at 1658813105186,
+  :block/updated-at 1658813105186}
  {:block/name "todo",
   :block/created-at 1655818480671,
   :block/updated-at 1656762233816}
