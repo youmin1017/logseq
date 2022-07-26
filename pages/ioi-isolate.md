@@ -1,7 +1,7 @@
 tags:: #sandbox #cgroup
 
 - [Manual](http://www.ucw.cz/moe/isolate.1.html#_name)
-- ## Installaion
+- ## Installation
 	- #ubuntu
 	  ```bash
 	  sudo apt update
