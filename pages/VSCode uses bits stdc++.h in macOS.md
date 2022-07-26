@@ -1,5 +1,5 @@
 title:: VSCode uses bits stdc++.h in macOS
 tags:: #vscode #macOS #gcc
 
-- ## First Install gcc
--
+- ## First Install `gcc`
+	-
