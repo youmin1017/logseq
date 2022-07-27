@@ -6,7 +6,7 @@
 	- Press `ctrl + r`
 - ## FZF With Preview
 	- #+BEGIN_NOTE
-	  You Should 
+	  You should install [[prgmentize]] first
 	  #+END_NOTE
 	- `fzf --preview 'pygmentize -g {}'`
 -
