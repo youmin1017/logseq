@@ -1,4 +1,7 @@
-[{:block/name "a",
+[{:block/name "62df9539-cf52-49bc-932e-5b16498643a7",
+  :block/created-at 1658820144806,
+  :block/updated-at 1658820144806}
+ {:block/name "a",
   :block/created-at 1655818480671,
   :block/updated-at 1655818480671}
  {:block/name "async",
@@ -13,6 +16,9 @@
  {:block/name "canceled",
   :block/created-at 1656169696575,
   :block/updated-at 1656169696575}
+ {:block/name "cancelled",
+  :block/created-at 1658911543724,
+  :block/updated-at 1658911543724}
  {:block/name "card",
   :block/created-at 1655818480671,
   :block/updated-at 1655818480671}
@@ -40,6 +46,12 @@
  {:block/name "fig",
   :block/created-at 1656574067451,
   :block/updated-at 1656768874998}
+ {:block/name "fzf",
+  :block/created-at 1658904430460,
+  :block/updated-at 1658904887070}
+ {:block/name "gcc",
+  :block/created-at 1658819601027,
+  :block/updated-at 1658819917271}
  {:block/name "git",
   :block/created-at 1657982929581,
   :block/updated-at 1657982929581}
@@ -54,7 +66,7 @@
   :block/updated-at 1655818480671}
  {:block/name "ioi-isolate",
   :block/created-at 1656348031357,
-  :block/updated-at 1658250405731}
+  :block/updated-at 1658820233311}
  {:block/name "iterm",
   :block/created-at 1656574136305,
   :block/updated-at 1656574136305}
@@ -76,27 +88,15 @@
  {:block/name "jul 19th, 2022",
   :block/created-at 1658160007843,
   :block/updated-at 1658214141451}
- {:block/name "jul 20th, 2022",
-  :block/created-at 1658248262834,
-  :block/updated-at 1658248262834}
  {:block/name "jul 21st, 2022",
   :block/created-at 1658336057098,
   :block/updated-at 1658396867667}
- {:block/name "jul 22nd, 2022",
-  :block/created-at 1658419202958,
-  :block/updated-at 1658419202958}
- {:block/name "jul 23rd, 2022",
-  :block/created-at 1658505639616,
-  :block/updated-at 1658505639616}
- {:block/name "jul 24th, 2022",
-  :block/created-at 1658592032308,
-  :block/updated-at 1658592032308}
- {:block/name "jul 25th, 2022",
-  :block/created-at 1658684090894,
-  :block/updated-at 1658684090894}
  {:block/name "jul 26th, 2022",
   :block/created-at 1658812201667,
-  :block/updated-at 1658812201667}
+  :block/updated-at 1658819579389}
+ {:block/name "jul 27th, 2022",
+  :block/created-at 1658851209953,
+  :block/updated-at 1658851209953}
  {:block/name "jul 2nd, 2022",
   :block/created-at 1656762225589,
   :block/updated-at 1656773651891}
@@ -138,7 +138,7 @@
   :block/updated-at 1655972063955}
  {:block/name "macos",
   :block/created-at 1655975010821,
-  :block/updated-at 1658247835531}
+  :block/updated-at 1658904430460}
  {:block/name "manjaro",
   :block/created-at 1655972064074,
   :block/updated-at 1655972064074}
@@ -150,7 +150,7 @@
   :block/updated-at 1658248029399}
  {:block/name "neovim",
   :block/created-at 1656766581751,
-  :block/updated-at 1656844057139}
+  :block/updated-at 1658851209990}
  {:block/name "now",
   :block/created-at 1655818480671,
   :block/updated-at 1655818480671}
@@ -188,8 +188,8 @@
   :block/created-at 1656169698219,
   :block/updated-at 1656169698219}
  {:block/name "tmux",
-  :block/created-at 1658813105186,
-  :block/updated-at 1658813105186}
+  :block/created-at 1658821532592,
+  :block/updated-at 1658821572981}
  {:block/name "todo",
   :block/created-at 1655818480671,
   :block/updated-at 1656762233816}
@@ -205,12 +205,12 @@
  {:block/name "vscode",
   :block/created-at 1658132351206,
   :block/updated-at 1658132351206}
- {:block/name "vscode keybindings",
-  :block/created-at 1658132351204,
-  :block/updated-at 1658242109858}
  {:block/name "vscode python linter",
   :block/created-at 1658213362610,
   :block/updated-at 1658213387151}
+ {:block/name "vscode uses bits stdc++.h in macos",
+  :block/created-at 1658819986136,
+  :block/updated-at 1658820495069}
  {:block/name "wait",
   :block/created-at 1655818480671,
   :block/updated-at 1655818480671}
