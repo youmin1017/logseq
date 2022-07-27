@@ -3,4 +3,5 @@
 - ## To install useful key bindings and fuzzy completion:
 	- `$(brew --prefix)/opt/fzf/install` #macOS
 - ## CLI History FZF
-	-
+	- Press `ctrl + r`
+-
