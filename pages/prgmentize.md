@@ -1,3 +1,6 @@
 tags:: #python #pip
 
-- ## Install
+- ## Installation
+	- `pip3 install prgmentize`
+-
+-
