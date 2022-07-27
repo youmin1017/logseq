@@ -4,6 +4,7 @@
 - ## Packages
 	- [[homebrew]]
 	- [[zsh]]
+	- [[fzf]]
 	- [[tmux]]
 	- [[iTerm]]
 	- [[docker]]
