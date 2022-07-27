@@ -1,4 +1,7 @@
 - ## macOS Package Manager [[Homebrew]]
+- ## Copy and Paste In CLI
+	- `pbcopy`
+	- `pbpaste`
 - ## Configs
 	- [[ssh]]
 - ## Packages
