@@ -4,4 +4,9 @@
 	- `$(brew --prefix)/opt/fzf/install` #macOS
 - ## CLI History FZF
 	- Press `ctrl + r`
+- ## FZF With Preview
+	- #+BEGIN_NOTE
+	  You Should 
+	  #+END_NOTE
+	- `fzf --preview 'pygmentize -g {}'`
 -
